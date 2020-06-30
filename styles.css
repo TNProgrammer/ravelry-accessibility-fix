@@ -1,0 +1,326 @@
+body,
+#doorbell-form,
+#menubar,
+#patterns_count,
+.account #content,
+body.search,
+.shelf_label,
+body.search.search_patterns,
+.resizable_table__cell-header,
+body.search.search_projects,
+.basic_box,
+body.search.search_sources,
+body.search.search_discussions,
+body.search.search_events,
+#organizer,
+body.search.search_groups,
+body.search.search_people,
+body.search.search_yarns,
+.volume_details li a,
+body.search.search_stash,
+.fat_table th,
+.fat_table td,
+body.search.search_fiberstash,
+body.search.search_yarn_companies,
+body.search.search_shops,
+body.search.search_designers,
+.navigation_v2__spacer,
+.expanded_volume,
+.information--well,
+select,
+#new_library,
+#message_container,
+.message_contents,
+.navigation_v2__menu,
+.navigation_v2__notification__wrapper,
+.navigation_v2__notification__wrapper .navigation_v2__logo,
+#search_navigation,
+.advanced_search__facets,
+.advanced_search__facet_content,
+.c-navigation_dropdown__content,
+.navigation_v2__logo,
+.navigation_v2__notification__wrapper .count,
+.filter_menu__options,
+.sent,
+.summary,
+table#forum_posts thead td,
+table.grid,
+table.grid th,
+table.grid tr.header td,
+body.supports_subnavigation.with_subnavigation .tabs--subnavigation,
+.quick_navigation,
+#quicknav:before,
+#quicknav:after,
+.fake_form_select,
+#event_list .month,
+.fake_form_select--filter_menu,
+.control_option_picker__pick_list,
+body.topics_index .pagination a,
+.page_links .pagination a,
+.page_buttons a,
+.editor #bookmark_status,
+.patterns .editor #tool_buttons,
+.form_select,
+.navigation_v2__menu a:visited,
+.navigation_v2__menu a,
+.vertical_form .small_240,
+.small_240,
+.breadcrumbs__tools,
+.linkbar,
+#quicknav,
+#doorbell form legend,
+#footer,
+#page_header,
+.message_row--unread,
+body.supports_subnavigation.with_subnavigation #forum_search_form,
+.facet_content,
+.landing__search,
+body.normal,
+#page_header,
+.tab_bar_responsive__more_menu,
+.tab_bar_responsive__more_menu::after,
+.tab_bar_responsive__more_menu::before,
+.navigation_mobile__content,
+.advanced_search__facets__boxes,
+.navigation_mobile__title {
+  background-image: none !important;
+  background-color: #333 !important;
+  color: #aaa !important;
+}
+
+body.search.search_discussions.discussions_action.normal
+  with_frontend_v1_2
+  with_navigation_v2.supports_subnavigation {
+  background-image: none !important;
+  background-color: #333 !important;
+  color: #aaa !important;
+}
+
+body.supports_subnavigation.with_subnavigation #forum_search_form {
+  border: 1px solid #000;
+}
+
+.linkbar {
+  border-top: 1px solid #000;
+}
+
+table#forum_posts thead td,
+table.grid th,
+.shelf_label,
+#patterns_count,
+.resizable_table__cell-header,
+table.grid tr.header td {
+  font-weight: bold !important;
+}
+
+.page_bar__current,
+.popover_list li.selected,
+.popover_list li:hover,
+.advanced_search__facets li:hover,
+.advanced_search__facet_content li:hover,
+#library_navigation li.selected a,
+#library_navigation li.selected a:hover,
+#library_navigation li.selected a:hover,
+#library_navigation li.selected span.count,
+#library_navigation li a:hover span.count,
+#library_navigation li a:hover,
+.facet_content li:hover,
+.facet_box a:hover,
+#quicknav a:hover,
+.control_option_picker__pick_list_link:hover,
+.control_option_picker__pick_list_item--selected,
+.attribute_options_presenter a:hover,
+#pattern_category_options a:hover,
+#pattern_attribute_options a:hover,
+#filter_menu_options a:hover,
+.navigation_v2__menu a:hover,
+.filter_menu_options a:hover,
+.c-navigation_dropdown__content a:hover,
+.user_messages_container .resizable_table__row-stripe,
+.fat_table tr:nth-of-type(odd),
+.is-filtered,
+body.search .filter a.criteria_link:hover,
+.facet_box a:hover input {
+  background-color: #666 !important;
+}
+
+.user_messages_container .resizable_table__row-stripe,
+.fat_table tr:nth-of-type(odd) {
+  color: #000 !important;
+}
+
+.message_row.resizable_table__row.swipe_message.hover {
+  background-color: #111 !important;
+}
+
+.message_row.resizable_table__row-stripe.swipe_message.hover {
+  background-color: #111 !important;
+  color: #aaa !important;
+}
+
+a.button,
+.btn,
+.btn-primary,
+.button,
+.clicker_v2,
+button.clicker_v2 {
+  background-color: #333 !important;
+  color: #aaa !important;
+}
+
+a.button:hover,
+.button:hover,
+.btn:hover,
+.btn-primary:hover,
+.clicker_v2:hover,
+button.clicker_v2:hover {
+  background-color: #5998a6 !important;
+  color: #000 !important;
+}
+
+a.button:hover,
+.button:hover,
+#button_box .button:hover,
+#button_box > .button_set > a.button.favorites_button:hover,
+#button_box > .button_set > a.button.queue_button:hover,
+#button_box > .button_set > a.button.cast_on_button:hover,
+#button_box > .button_set > a.button.library_button:hover,
+#button_box > .button_set > a.button.social_share_button:hover,
+.multiple_button_box a.button:hover {
+  background-color: #666 !important;
+}
+
+body.search .filter a.criteria_link {
+  color: #000 !important;
+}
+
+.is-filtered {
+  color: #000;
+}
+
+button,
+a {
+  box-shadow: none !important;
+}
+
+.box_title {
+  background-color: #5fa052 !important;
+  color: #000 !important;
+}
+
+a {
+  color: #00cc00 !important;
+}
+
+a.selected {
+  color: #00cc00 !important;
+  font-weight: bold !important;
+}
+
+body.marketplace #categories .selected > a,
+body.marketplace #categories a.selected {
+  background-color: #666 !important;
+}
+
+.tag,
+.tag_word {
+  background-color: #111 !important;
+}
+
+.chip {
+  background-color: #aaa !important;
+}
+
+.filter {
+  color: #111 !important;
+}
+
+.chip__clear.filter__clear {
+  background-image: none;
+  content: "x";
+  color: #aaa !important;
+}
+
+.box_contents {
+  background-color: #333 !important;
+  color: #aaa !important;
+}
+
+body.pro_skin.with_frontend_v1_2 ul#menubar a:hover,
+body.pro_skin.with_frontend_v1_2 li.active a,
+body.pro_skin.with_frontend_v1_2 li.active,
+body.pro_skin.with_frontend_v1_2 li.active > a,
+ul.store_top_navigation a:hover,
+ul.store_top_navigation a.active,
+body.pro.pro_skin.supports_subnavigation.with_frontend_v1_2
+  > div#page
+  > ul#menubar
+  > li.active
+  > a,
+#menubar .active,
+.navigation_v2.active {
+  background-color: #666 !important;
+}
+
+.navigation_v2__tab--advanced_search > * {
+  background-color: #333 !important;
+}
+
+.navigation_v2__tab--advanced_search > .is_active {
+  background-color: #666 !important;
+}
+
+.c-navigation_dropdown__content_wrapper label {
+  color: #aaa !important;
+}
+
+.c-navigation_dropdown__content_wrapper,
+.navigation_v2.active ul,
+.navigation_v2.active ul > li,
+.navigation_v2__tab--active,
+.navigation_v2__tab--active ul > li,
+.navigation_v2__tab--dropdown,
+.navigation_v2__tab--advanced_search,
+.navigation_v2__tab--open,
+.navigation_v2__menu li,
+.navigation_v2__menu li a,
+.navigation_v2__menu li a:visited,
+tabs tabs--subnavigation,
+.navigation_v2__tab--open ul > li {
+  background-color: #333 !important;
+  color: #aaa !important;
+}
+
+.loading_animation,
+.loading_animation:before,
+.loading_animation:after {
+  display: none !important;
+}
+
+.control_option_picker__pick_list,
+.form_select.control_option_picker {
+  border: 1px solid #000 !important;
+}
+
+#new_library_panel #shelves:after,
+#event_list .month,
+#shelves .volume:before {
+  background-image: none !important;
+  border-bottom: 3px #000 solid !important;
+  border-top: 3px #000 solid !important;
+}
+
+.splash_page__pride {
+  display: none;
+}
+
+*,
+:before,
+:after {
+  /*CSS transitions*/
+  transition-property: none !important;
+  /*CSS transforms*/
+  transform: none !important;
+  /*CSS animations*/
+  animation: none !important;
+}
