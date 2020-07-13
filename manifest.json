@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Ravelry Accessibility Fix",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "Color fix for Ravelry",
   "icons": {
     "16": "icons/16x16.png",
